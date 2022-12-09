@@ -58,7 +58,7 @@ exports.config = {
         //
         'browserName': 'chrome',
         'acceptInsecureCerts': true,
-        'goog:chormeOptions': {
+        'goog:chromeOptions': {
             args:[
                 '--window-size=1920,1080',
                 '--incognito',
